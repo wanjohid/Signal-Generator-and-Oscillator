@@ -1,8 +1,8 @@
 # Signal-Generator-and-Oscillator
 Code for communicating with an instrument in order to control the % signal generator and osciallator.
 ___________________________________________
-This is a personal project by Dennis Wanjohi.
-If you want such projects completed seamlessly
+This is a personal project by @Dennis Wanjohi.
+If you want such MATLAB Programming projects completed seamlessly,
 Email me via: 100acepapers@gmail.com
 ___________________________________________
 ![square_1123_sig2](https://user-images.githubusercontent.com/36731657/135546719-f16c7271-65c9-4287-9085-6a26b087c912.png)
