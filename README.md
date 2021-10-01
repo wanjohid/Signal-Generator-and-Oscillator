@@ -1,5 +1,11 @@
 # Signal-Generator-and-Oscillator
-Code for communicating with an instrument in order to control the % signal generator and osciallator.![square_1123_sig2](https://user-images.githubusercontent.com/36731657/135546719-f16c7271-65c9-4287-9085-6a26b087c912.png)
+Code for communicating with an instrument in order to control the % signal generator and osciallator.
+___________________________________________
+This is a personal project by Dennis Wanjohi.
+If you want such projects completed seamlessly
+Email me via: 100acepapers@gmail.com
+___________________________________________
+![square_1123_sig2](https://user-images.githubusercontent.com/36731657/135546719-f16c7271-65c9-4287-9085-6a26b087c912.png)
 ![triangle_1123_fft](https://user-images.githubusercontent.com/36731657/135546723-a543f549-ca89-4100-abb0-c82a60c2026f.png)
 ![triangle_1123_fft2](https://user-images.githubusercontent.com/36731657/135546724-5c3c530e-40cb-421a-8977-58913d11f088.png)
 ![triangle_1123_sig](https://user-images.githubusercontent.com/36731657/135546727-e64330b8-cf31-44b3-8af7-3d5939890336.png)
